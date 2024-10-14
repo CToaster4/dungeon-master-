@@ -1,0 +1,55 @@
+{
+    "name": "Dungeon Master ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "1.12.56",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#c0d1cc",
+        "#583725",
+        "#406023",
+        "#831100",
+        "#76BB40",
+        "#FFF76B",
+        "#a19f7c",
+        "#0056D6",
+        "#5C5C5C",
+        "#01C7FC",
+        "#4E7A27",
+        "#263E0F",
+        "#EBEBEB",
+        "#FFBB57",
+        "#000000"
+    ]
+}

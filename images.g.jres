@@ -1,0 +1,28 @@
+{
+    "image2": {
+        "data": "hwQMABYAAAAAAADQ7u7uAAAAAAAAAADd7u7uAAAA8AAAAADd3d1/d+7e/wBw4ADd3d1/d+7e/wB37uLd3d1/d+7e/wB37uLd3d12BwAAAAB3/u7d3d1/BwAA8AB37u7d3d1/d+7e/wB3Iu7d3d1/d+7e/wBwIgDd3d1/d+7e/wAAAADd7u7uAAAAAAAAAADQ7u7uAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Human being0"
+    },
+    "image1": {
+        "data": "hwQQABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQ7u7uAAAAAAAAAADd7u7uAAAAAABwIgDd3d1/d+7e/wB3Iu7d3d1/d+7e/wB37u7d3d1/d+7e/wB3/u7d3d1/BwAA8AB37uLd3d12BwAAAAB37uLd3d1/d+7e/wBw4ADd3d1/d+7e/wAAAADd3d1/d+7e/wAAAADd7u7uAAAA8AAAAADQ7u7uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Human being"
+    },
+    "image3": {
+        "data": "hwQUABAAAAAAAAAAALMAAAAAAAAwAwAAAAAAAAAzAAAAAMzDzMPFzADAzMw8w8zLAMzMy8wzzMzAzNzNzMw8zMC83M/FzMzLwMzMzMzMy8zAzMzMzMPMvMA8zLzMzMzMwMzMzFzMXMzAXNzPzMzMzMDM3L3MvMzDAMzMzMwzzMwAwMzMPMPMywAAzMXMw8zMAAAAAAAzAAAAAAAAMAMAAAAAAAAAswAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "forest enemy"
+    },
+    "song1": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
